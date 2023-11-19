@@ -1,3 +1,3 @@
-# discussions
+# discussion
 
 Free Discussion Reository
